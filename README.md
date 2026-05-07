@@ -20,6 +20,7 @@ The project also generates result files, prediction reports, model files, config
 
 ---
 
+![AIS Prediction Distribution](./ais_accuracy_graph.png)
 ## 🎯 Objectives
 
 - Analyze historical export demand data
@@ -128,7 +129,8 @@ ais_accuracy_graph.png
 ais_fitness_graph.png
 ais_feature_importance_graph.png
 📈 Accuracy Graph
-![AIS Prediction Distribution](./ais_accuracy_graph.png)
+
+
 📊 Result Graph
 
 🔮 Prediction Graph
