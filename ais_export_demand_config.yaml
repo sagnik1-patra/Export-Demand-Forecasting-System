@@ -1,0 +1,27 @@
+project_name: Export Demand Forecasting System
+algorithm: AIS
+dataset_path: C:\Users\NXTWAVE\Downloads\Export Demand Forecasting System\Table_B-4.csv
+output_directory: C:\Users\NXTWAVE\Downloads\Export Demand Forecasting System
+target_column: QV_Value
+all_features:
+- Year
+- Percentage
+- Market_Encoded
+- Parameter_Encoded
+- Lag_1
+- Lag_2
+- Rolling_Mean_3
+selected_features:
+- Rolling_Mean_3
+model: RandomForestRegressor
+ais_parameters:
+  population_size: 20
+  generations: 30
+  clone_factor: 5
+  mutation_rate: 0.2
+saved_outputs:
+- ais_export_demand_result.csv
+- ais_export_demand_prediction.csv
+- ais_export_demand_model.pkl
+- ais_export_demand_metrics.json
+- ais_export_demand_config.yaml

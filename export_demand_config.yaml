@@ -1,0 +1,21 @@
+project_name: Export Demand Forecasting System
+dataset_path: C:\Users\NXTWAVE\Downloads\Export Demand Forecasting System\Table_B-4.csv
+output_directory: C:\Users\NXTWAVE\Downloads\Export Demand Forecasting System
+target_column: QV_Value
+features_used:
+- Year
+- Percentage
+- Market_Encoded
+- Parameter_Encoded
+- Lag_1
+- Lag_2
+- Rolling_Mean_3
+models_used:
+- RandomForestRegressor
+- LSTM
+saved_outputs:
+- export_demand_result.csv
+- export_demand_prediction.csv
+- export_demand_rf_model.pkl
+- export_demand_lstm_model.h5
+- export_demand_metrics.json

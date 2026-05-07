@@ -1,0 +1,155 @@
+Market,Parameter,Year_Label,Year,QV_Value,Percentage
+Japan,Q - Quantity in Metric Tonnes,2003-04,2003,50020.0,12.14
+Japan,Q - Quantity in Metric Tonnes,2004-05,2004,57832.0,12.54
+Japan,Q - Quantity in Metric Tonnes,2005-06,2005,59785.0,11.67
+Japan,Q - Quantity in Metric Tonnes,2006-07,2006,67437.0,11.01
+Japan,Q - Quantity in Metric Tonnes,2007-08,2007,67373.0,12.44
+Japan,Q - Quantity in Metric Tonnes,2008-09,2008,57271.0,9.5
+Japan,Q - Quantity in Metric Tonnes,2009-10,2009,62690.0,9.24
+Japan,Q - Quantity in Metric Tonnes,2010-11,2010,70714.0,8.7
+Japan,Q - Quantity in Metric Tonnes,2011-12,2011,85800.0,9.95
+Japan,Q - Quantity in Metric Tonnes,2012-13,2012,76648.0,8.26
+Japan,Q - Quantity in Metric Tonnes,2013-14,2013,71484.0,7.27
+Japan,V - Value in Rs. Crores,2003-04,2003,1163.69,19.1
+Japan,V - Value in Rs. Crores,2004-05,2004,1202.5,18.09
+Japan,V - Value in Rs. Crores,2005-06,2005,1156.0,15.96
+Japan,V - Value in Rs. Crores,2006-07,2006,1353.38,16.18
+Japan,V - Value in Rs. Crores,2007-08,2007,1227.59,16.11
+Japan,V - Value in Rs. Crores,2008-09,2008,1234.01,14.34
+Japan,V - Value in Rs. Crores,2009-10,2009,1289.58,12.83
+Japan,V - Value in Rs. Crores,2010-11,2010,1683.39,13.05
+Japan,V - Value in Rs. Crores,2011-12,2011,2140.67,12.9
+Japan,V - Value in Rs. Crores,2012-13,2012,1999.59,10.6
+Japan,V - Value in Rs. Crores,2013-14,2013,2463.83,8.15
+U. S. A,Q - Quantity in Metric Tonnes,2003-04,2003,53153.0,12.9
+U. S. A,Q - Quantity in Metric Tonnes,2004-05,2004,50045.0,10.85
+U. S. A,Q - Quantity in Metric Tonnes,2005-06,2005,55817.0,10.9
+U. S. A,Q - Quantity in Metric Tonnes,2006-07,2006,43761.0,7.14
+U. S. A,Q - Quantity in Metric Tonnes,2007-08,2007,36613.0,6.76
+U. S. A,Q - Quantity in Metric Tonnes,2008-09,2008,36877.0,6.12
+U. S. A,Q - Quantity in Metric Tonnes,2009-10,2009,33444.0,4.93
+U. S. A,Q - Quantity in Metric Tonnes,2010-11,2010,50095.0,6.16
+U. S. A,Q - Quantity in Metric Tonnes,2011-12,2011,68354.0,7.93
+U. S. A,Q - Quantity in Metric Tonnes,2012-13,2012,92447.0,9.96
+U. S. A,Q - Quantity in Metric Tonnes,2013-14,2013,110880.0,11.27
+U. S. A,V - Value in Rs. Crores,2003-04,2003,1682.06,27.61
+U. S. A,V - Value in Rs. Crores,2004-05,2004,1556.1,23.41
+U. S. A,V - Value in Rs. Crores,2005-06,2005,1639.2,22.62
+U. S. A,V - Value in Rs. Crores,2006-07,2006,1347.8,16.12
+U. S. A,V - Value in Rs. Crores,2007-08,2007,1016.94,13.34
+U. S. A,V - Value in Rs. Crores,2008-09,2008,1021.55,11.87
+U. S. A,V - Value in Rs. Crores,2009-10,2009,1012.52,10.08
+U. S. A,V - Value in Rs. Crores,2010-11,2010,1990.26,15.43
+U. S. A,V - Value in Rs. Crores,2011-12,2011,2977.53,17.94
+U. S. A,V - Value in Rs. Crores,2012-13,2012,4026.48,21.35
+U. S. A,V - Value in Rs. Crores,2013-14,2013,7744.67,25.63
+European Union,Q - Quantity in Metric Tonnes,2003-04,2003,96284.0,23.37
+European Union,Q - Quantity in Metric Tonnes,2004-05,2004,117742.0,25.52
+European Union,Q - Quantity in Metric Tonnes,2005-06,2005,136842.0,26.72
+European Union,Q - Quantity in Metric Tonnes,2006-07,2006,149773.0,24.45
+European Union,Q - Quantity in Metric Tonnes,2007-08,2007,149381.0,27.58
+European Union,Q - Quantity in Metric Tonnes,2008-09,2008,151590.0,25.15
+European Union,Q - Quantity in Metric Tonnes,2009-10,2009,164800.0,24.29
+European Union,Q - Quantity in Metric Tonnes,2010-11,2010,170963.0,21.03
+European Union,Q - Quantity in Metric Tonnes,2011-12,2011,154221.0,17.89
+European Union,Q - Quantity in Metric Tonnes,2012-13,2012,158357.0,17.06
+European Union,Q - Quantity in Metric Tonnes,2013-14,2013,174686.0,17.76
+European Union,V - Value in Rs. Crores,2003-04,2003,1470.99,24.15
+European Union,V - Value in Rs. Crores,2004-05,2004,1819.3,27.37
+European Union,V - Value in Rs. Crores,2005-06,2005,2134.2,29.46
+European Union,V - Value in Rs. Crores,2006-07,2006,2760.32,33.0
+European Union,V - Value in Rs. Crores,2007-08,2007,2664.24,34.96
+European Union,V - Value in Rs. Crores,2008-09,2008,2799.96,32.53
+European Union,V - Value in Rs. Crores,2009-10,2009,3013.33,29.99
+European Union,V - Value in Rs. Crores,2010-11,2010,3459.4,26.81
+European Union,V - Value in Rs. Crores,2011-12,2011,3810.44,22.96
+European Union,V - Value in Rs. Crores,2012-13,2012,4176.42,22.15
+European Union,V - Value in Rs. Crores,2013-14,2013,6129.69,20.29
+South East Asia Including China,Q - Quantity in Metric Tonnes,2003-04,2003,174408.0,42.33
+South East Asia Including China,Q - Quantity in Metric Tonnes,2004-05,2004,188668.0,40.9
+South East Asia Including China,Q - Quantity in Metric Tonnes,2005-06,2005,197216.0,38.51
+South East Asia Including China,Q - Quantity in Metric Tonnes,2006-07,2006,271163.0,44.26
+South East Asia Including China,Q - Quantity in Metric Tonnes,2007-08,2007,203610.0,37.59
+South East Asia Including China,Q - Quantity in Metric Tonnes,2008-09,2008,236265.0,39.19
+South East Asia Including China,Q - Quantity in Metric Tonnes,2009-10,2009,293643.0,43.28
+South East Asia Including China,Q - Quantity in Metric Tonnes,2010-11,2010,393111.0,48.35
+South East Asia Including China,Q - Quantity in Metric Tonnes,2011-12,2011,428477.0,49.71
+South East Asia Including China,Q - Quantity in Metric Tonnes,2012-13,2012,428720.0,46.19
+South East Asia Including China,Q - Quantity in Metric Tonnes,2013-14,2013,455844.0,46.34
+South East Asia Including China,V - Value in Rs. Crores,2003-04,2003,1222.23,20.06
+South East Asia Including China,V - Value in Rs. Crores,2004-05,2004,1322.0,19.89
+South East Asia Including China,V - Value in Rs. Crores,2005-06,2005,1435.3,19.81
+South East Asia Including China,V - Value in Rs. Crores,2006-07,2006,1773.66,21.21
+South East Asia Including China,V - Value in Rs. Crores,2007-08,2007,1583.56,20.78
+South East Asia Including China,V - Value in Rs. Crores,2008-09,2008,2169.48,25.2
+South East Asia Including China,V - Value in Rs. Crores,2009-10,2009,3270.44,32.55
+South East Asia Including China,V - Value in Rs. Crores,2010-11,2010,4092.29,31.72
+South East Asia Including China,V - Value in Rs. Crores,2011-12,2011,5452.5,32.85
+South East Asia Including China,V - Value in Rs. Crores,2012-13,2012,5802.14,30.77
+South East Asia Including China,V - Value in Rs. Crores,2013-14,2013,9813.31,32.48
+Middle East,Q - Quantity in Metric Tonnes,2003-04,2003,14711.0,3.57
+Middle East,Q - Quantity in Metric Tonnes,2004-05,2004,16624.0,3.6
+Middle East,Q - Quantity in Metric Tonnes,2005-06,2005,22270.0,4.35
+Middle East,Q - Quantity in Metric Tonnes,2006-07,2006,23585.0,3.85
+Middle East,Q - Quantity in Metric Tonnes,2007-08,2007,25752.0,4.75
+Middle East,Q - Quantity in Metric Tonnes,2008-09,2008,27177.0,4.51
+Middle East,Q - Quantity in Metric Tonnes,2009-10,2009,34907.0,5.15
+Middle East,Q - Quantity in Metric Tonnes,2010-11,2010,43950.0,5.41
+Middle East,Q - Quantity in Metric Tonnes,2011-12,2011,38155.0,4.43
+Middle East,Q - Quantity in Metric Tonnes,2012-13,2012,41419.0,4.46
+Middle East,Q - Quantity in Metric Tonnes,2013-14,2013,58040.0,5.9
+Middle East,V - Value in Rs. Crores,2003-04,2003,201.52,3.31
+Middle East,V - Value in Rs. Crores,2004-05,2004,244.4,3.68
+Middle East,V - Value in Rs. Crores,2005-06,2005,307.7,4.25
+Middle East,V - Value in Rs. Crores,2006-07,2006,371.06,4.44
+Middle East,V - Value in Rs. Crores,2007-08,2007,393.96,5.17
+Middle East,V - Value in Rs. Crores,2008-09,2008,475.72,5.53
+Middle East,V - Value in Rs. Crores,2009-10,2009,553.59,5.51
+Middle East,V - Value in Rs. Crores,2010-11,2010,669.9,5.19
+Middle East,V - Value in Rs. Crores,2011-12,2011,894.38,5.39
+Middle East,V - Value in Rs. Crores,2012-13,2012,1113.34,5.9
+Middle East,V - Value in Rs. Crores,2013-14,2013,1599.37,5.29
+Others,Q - Quantity in Metric Tonnes,2003-04,2003,23441.0,5.69
+Others,Q - Quantity in Metric Tonnes,2004-05,2004,30418.0,6.59
+Others,Q - Quantity in Metric Tonnes,2005-06,2005,40234.0,7.86
+Others,Q - Quantity in Metric Tonnes,2006-07,2006,56924.0,9.29
+Others,Q - Quantity in Metric Tonnes,2007-08,2007,58972.0,10.89
+Others,Q - Quantity in Metric Tonnes,2008-09,2008,93654.0,15.54
+Others,Q - Quantity in Metric Tonnes,2009-10,2009,88953.0,13.11
+Others,Q - Quantity in Metric Tonnes,2010-11,2010,84257.0,10.36
+Others,Q - Quantity in Metric Tonnes,2011-12,2011,87014.0,10.09
+Others,Q - Quantity in Metric Tonnes,2012-13,2012,130623.0,14.07
+Others,Q - Quantity in Metric Tonnes,2013-14,2013,112822.0,11.47
+Others,V - Value in Rs. Crores,2003-04,2003,351.46,5.77
+Others,V - Value in Rs. Crores,2004-05,2004,502.4,7.56
+Others,V - Value in Rs. Crores,2005-06,2005,572.9,7.91
+Others,V - Value in Rs. Crores,2006-07,2006,757.3,9.05
+Others,V - Value in Rs. Crores,2007-08,2007,734.62,9.64
+Others,V - Value in Rs. Crores,2008-09,2008,907.21,10.54
+Others,V - Value in Rs. Crores,2009-10,2009,909.07,9.05
+Others,V - Value in Rs. Crores,2010-11,2010,1006.23,7.8
+Others,V - Value in Rs. Crores,2011-12,2011,1321.72,7.96
+Others,V - Value in Rs. Crores,2012-13,2012,1738.29,9.22
+Others,V - Value in Rs. Crores,2013-14,2013,2462.4,8.15
+Total,Q - Quantity in Metric Tonnes,2003-04,2003,412017.0,100.0
+Total,Q - Quantity in Metric Tonnes,2004-05,2004,461329.0,100.0
+Total,Q - Quantity in Metric Tonnes,2005-06,2005,512164.0,100.0
+Total,Q - Quantity in Metric Tonnes,2006-07,2006,612643.0,100.0
+Total,Q - Quantity in Metric Tonnes,2007-08,2007,541701.0,100.0
+Total,Q - Quantity in Metric Tonnes,2008-09,2008,602834.0,100.0
+Total,Q - Quantity in Metric Tonnes,2009-10,2009,678436.0,100.0
+Total,Q - Quantity in Metric Tonnes,2010-11,2010,813090.0,100.0
+Total,Q - Quantity in Metric Tonnes,2011-12,2011,862021.0,100.0
+Total,Q - Quantity in Metric Tonnes,2012-13,2012,928214.0,100.0
+Total,Q - Quantity in Metric Tonnes,2013-14,2013,983756.0,100.0
+Total,V - Value in Rs. Crores,2003-04,2003,6091.95,100.0
+Total,V - Value in Rs. Crores,2004-05,2004,6646.7,100.0
+Total,V - Value in Rs. Crores,2005-06,2005,7245.3,100.0
+Total,V - Value in Rs. Crores,2006-07,2006,8363.52,100.0
+Total,V - Value in Rs. Crores,2007-08,2007,7620.91,100.0
+Total,V - Value in Rs. Crores,2008-09,2008,8607.93,100.0
+Total,V - Value in Rs. Crores,2009-10,2009,10048.53,100.0
+Total,V - Value in Rs. Crores,2010-11,2010,12901.47,100.0
+Total,V - Value in Rs. Crores,2011-12,2011,16597.24,100.0
+Total,V - Value in Rs. Crores,2012-13,2012,18856.26,100.0
+Total,V - Value in Rs. Crores,2013-14,2013,30213.27,100.0
