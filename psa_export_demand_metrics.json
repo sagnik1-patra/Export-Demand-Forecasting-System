@@ -1,0 +1,11 @@
+{
+    "Algorithm": "Hybrid PSO + CSA Feature Selection with Random Forest",
+    "Selected_Features": [
+        "Rolling_Mean_3"
+    ],
+    "Best_Hybrid_PSO_CSA_Fitness": 0.9742314593791089,
+    "MAE": 17495.254550101,
+    "RMSE": 38840.87963768447,
+    "R2_Score": 0.9764727444451121,
+    "Accuracy_Percentage": 97.64727444451121
+}
