@@ -1,0 +1,24 @@
+project_name: Export Demand Forecasting System
+algorithm: Hybrid AIS + PSO
+dataset_path: C:\Users\NXTWAVE\Downloads\Export Demand Forecasting System\Ais_csa\Table_B-4.csv
+output_directory: C:\Users\NXTWAVE\Downloads\Export Demand Forecasting System\Ais_csa
+target_column: QV_Value
+all_features:
+- Year
+- Percentage
+- Market_Encoded
+- Parameter_Encoded
+- Lag_1
+- Lag_2
+- Rolling_Mean_3
+selected_features:
+- Rolling_Mean_3
+model: RandomForestRegressor
+hybrid_parameters:
+  population_size: 20
+  generations: 30
+  clone_factor: 4
+  mutation_rate: 0.2
+  inertia_weight: 0.7
+  cognitive_weight: 1.5
+  social_weight: 1.5
